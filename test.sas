@@ -1,2 +1,2 @@
-proc options;
+proc options option=work;
 run;
